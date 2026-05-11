@@ -1,8 +1,4 @@
-<div align="center">
-  <h2><b>(ICIC 2026 Accepted) DynaRoute: Dynamics-Conditioned Routing for Universal Time Series Forecasting</b></h2>
-</div>
-
-<div align="center">
+<h2><b>(ICIC 2026 Accepted) DynaRoute: Dynamics-Conditioned Routing for Universal Time Series Forecasting</b></h2>
 ## Updates / News
 
 🚩 **News**: DynaRoute has been accepted by **ICIC 2026**.
